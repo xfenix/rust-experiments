@@ -5,3 +5,4 @@ authors = ["Denis Anikin <ad@xfenix.ru>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6.5"
